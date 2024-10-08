@@ -1,4 +1,4 @@
-Тут архив с проектом airflow_hw, 
+Архив с проектом airflow_hw, 
 внутри него:
 шаблон DAG’а (dags/hw_dag.py),
 готовый код ML-модели (modules/pipeline.py),
